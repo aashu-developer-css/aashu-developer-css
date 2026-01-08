@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashirwad Singh</h1>
+<h1 align="center">Hi 👋, I'm Aashu Patel</h1>
 <h3 align="center">Website Developer | Discord Bot Developer | Minecraft Server Developer</h3>
 
 ---
@@ -21,7 +21,7 @@
   Website development (HTML, CSS, JavaScript), Discord bot development (Node.js, Discord.js), Minecraft server development (Plugins, Skript, configurations, anti-cheat, economy, events).
 
 - ⚡ **Fun fact**  
-  I love building powerful systems from scratch—whether it’s a website, a Discord bot, or a Minecraft server—and turning ideas into fully working digital experiences.
+  I love building powerful systems from scratch—whether it’s a website, a Discord bot, or a Minecraft server and turning ideas into fully working digital experiences.
 
 ---
 
@@ -68,4 +68,4 @@
 ## 💡 Random Dev Quote
 
 > *"The only way for errors to occur in a program is by being put there by the author."*  
-> — **Aashu Patel**
+> — **Harlan Mills**
